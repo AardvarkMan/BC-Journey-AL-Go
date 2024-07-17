@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Aardvark Labs Basic Customizations">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2910947939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WarrantyClaim</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARDWarrantyClaim - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2910947939 - Field 3033494325 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Associated Customer Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARDWarrantyClaim - Field CustomerNo. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2910947939 - Field 3033494325 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARDWarrantyClaim - Field CustomerNo. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2910947939 - Field 3192175264 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty Claim Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARDWarrantyClaim - Field Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2910947939 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARDWarrantyClaim - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2910947939 - Field 318613646 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty claim details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARDWarrantyClaim - Field Details - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2910947939 - Field 318613646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARDWarrantyClaim - Field Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2910947939 - Field 747156212 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indicate if the Claim has been resolved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARDWarrantyClaim - Field Resolved - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2910947939 - Field 747156212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resolved</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARDWarrantyClaim - Field Resolved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2910947939 - Field 3969770827 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty Claim Number</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARDWarrantyClaim - Field WarrantyClaimNo. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2910947939 - Field 3969770827 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty Claim No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARDWarrantyClaim - Field WarrantyClaimNo. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1625144480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARD_Warranty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1625144480 - Field 425913530 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty offering description.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARD_Warranty - Field ARD_Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1625144480 - Field 425913530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARD_Warranty - Field ARD_Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1625144480 - Field 1684227793 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty offering name.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARD_Warranty - Field ARD_Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1625144480 - Field 1684227793 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARD_Warranty - Field ARD_Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1625144480 - Field 1120952161 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty record is number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARD_Warranty - Field ARD_No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1625144480 - Field 1120952161 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARD_Warranty - Field ARD_No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3765226286 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Claims</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ARDCustomerClaims - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 713603087 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ardItemAPI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ARD_ItemAPI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3284172364 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ARD_WarrantyCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3284172364 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ARD_WarrantyCard - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3284172364 - Control 425913530 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty details description.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ARD_WarrantyCard - Control ARD_Description - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3284172364 - Control 1684227793 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ARD_WarrantyCard - Control ARD_Name - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 1611634762 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ARD_WarrantyList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4261441945 - Control 1679726958 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Warranty Claims</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ARDCustomerCard - Control ARDWarrantyClaims - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3209861788 - Field 2059382471 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Warranty Expiration Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARDSalesHeader - Field ARD_WarrantyExpDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3209861788 - Field 2059382471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Warranty Exp Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARDSalesHeader - Field ARD_WarrantyExpDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3209861788 - Field 2429822661 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Name of the selected Warranty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARDSalesHeader - Field ARD_WarrantyName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3209861788 - Field 2429822661 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Warranty Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARDSalesHeader - Field ARD_WarrantyName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3209861788 - Field 2419900071 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Selected order warranty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARDSalesHeader - Field ARD_WarrantyNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3209861788 - Field 2419900071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Warranty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARDSalesHeader - Field ARD_WarrantyNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1492519699 - Field 2059382471 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>Warranty Expiration Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARDSalesInvoiceHeader - Field ARD_WarrantyExpDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1492519699 - Field 2059382471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>Warranty Exp Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARDSalesInvoiceHeader - Field ARD_WarrantyExpDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1492519699 - Field 2429822661 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>Name of the selected Warranty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARDSalesInvoiceHeader - Field ARD_WarrantyName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1492519699 - Field 2429822661 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>Warranty Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARDSalesInvoiceHeader - Field ARD_WarrantyName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1492519699 - Field 2419900071 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>Selected order warranty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARDSalesInvoiceHeader - Field ARD_WarrantyNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1492519699 - Field 2419900071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>Warranty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARDSalesInvoiceHeader - Field ARD_WarrantyNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1299113527 - Field 2149888551 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Item Color.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARD_Item - Field ARD_Color - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1299113527 - Field 2149888551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Color</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARD_Item - Field ARD_Color - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1299113527 - Field 4018324153 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Item Height</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARD_Item - Field ARD_Height - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1299113527 - Field 4018324153 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Height</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARD_Item - Field ARD_Height - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1299113527 - Field 4018324153 - Method 2126772001 - NamedType 1854085928" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1299113527">
+          <source>Height must be greater than zero.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARD_Item - Field ARD_Height - Method OnValidate - NamedType ErrMsg</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1299113527 - Field 2836387352 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Item Length</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARD_Item - Field ARD_Length - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1299113527 - Field 2836387352 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Length</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARD_Item - Field ARD_Length - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1299113527 - Field 2836387352 - Method 2126772001 - NamedType 1854085928" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1299113527">
+          <source>Length must be greater than zero.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARD_Item - Field ARD_Length - Method OnValidate - NamedType ErrMsg</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1299113527 - Field 3114442580 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Item Weight</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARD_Item - Field ARD_Weight - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1299113527 - Field 3114442580 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Weight</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARD_Item - Field ARD_Weight - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1299113527 - Field 3114442580 - Method 2126772001 - NamedType 1854085928" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1299113527">
+          <source>Weight must be greater than zero.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARD_Item - Field ARD_Weight - Method OnValidate - NamedType ErrMsg</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1299113527 - Field 181667538 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Item Width</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARD_Item - Field ARD_Width - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1299113527 - Field 181667538 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Width</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARD_Item - Field ARD_Width - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1299113527 - Field 181667538 - Method 2126772001 - NamedType 1854085928" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1299113527">
+          <source>Width must be greater than zero.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ARD_Item - Field ARD_Width - Method OnValidate - NamedType ErrMsg</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 115929790 - EnumValue 1094575622 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 1178123344">
+          <source>Ardvark Labs Events</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension ARD_EventCategories - EnumValue Ardvark Labs Events - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 2142083508 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AardvarkLabs Permissions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet ARD_Permissions - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
