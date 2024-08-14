@@ -1,6 +1,10 @@
 {
   "country": "us",
-  "appFolders": ["BC-Journey"],
-  "testFolders": [],
+  "appFolders": [
+    "BC-Journey"
+  ],
+  "testFolders": [
+    "BC-Journey.Test"
+  ],
   "bcptTestFolders": []
 }
