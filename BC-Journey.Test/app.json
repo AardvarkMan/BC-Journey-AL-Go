@@ -22,6 +22,18 @@
       "name": "Any",
       "id": "e7320ebb-08b3-4406-b1ec-b4927d3e280b",
       "version": "22.0.0.0"
+    },
+    {
+      "publisher": "AardvarkLabs",
+      "name": "Any",
+      "id": "776d940f-fc7f-4a22-8901-3c34407df048",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "5d86850b-0d76-4eca-bd7b-951ad998e997",
+      "publisher": "Microsoft",
+      "version": "18.0.0.0",
+      "name": "Tests-TestLibraries"
     }
   ],
   "screenshots": [],
