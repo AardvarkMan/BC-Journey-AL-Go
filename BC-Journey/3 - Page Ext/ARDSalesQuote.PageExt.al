@@ -33,4 +33,15 @@ BC AL Journey #7
             }
         }
     }
+
+    /*
+    BC AL Journey #16
+    */
+trigger OnInsertRecord(BelowxRec: Boolean): Boolean
+var
+    Settings: Record ARD_Settings;
+begin
+    if Settings.Get() then
+        Rec.ARD_WarrantyNo := Settings.ARD_DefaultWarranty;
+end;
 }

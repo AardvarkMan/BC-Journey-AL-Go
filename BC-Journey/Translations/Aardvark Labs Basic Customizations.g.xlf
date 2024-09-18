@@ -58,6 +58,31 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table ARDWarrantyClaim - Field WarrantyClaimNo. - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 1308547375 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARD_Settings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1308547375 - Field 4138710633 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Warranty Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARD_Settings - Field ARD_DefaultWarranty - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1308547375 - Field 4138710633 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Warranty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARD_Settings - Field ARD_DefaultWarranty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1308547375 - Field 1120952161 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Settings No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARD_Settings - Field ARD_No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 1308547375 - Field 1120952161 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ARD_Settings - Field ARD_No. - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 1625144480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Warranty</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -102,6 +127,16 @@
           <source>ardItemAPI</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page ARD_ItemAPI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1308547375 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty Settings</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ARD_Settings - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1308547375 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ARD_Settings - Control General - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3284172364 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Warranty Card</source>
