@@ -1,0 +1,274 @@
+name: Recording
+description: Test recording
+start:
+  profile: BUSINESS MANAGER
+steps:
+  - type: navigate
+    target:
+      - page: Item Journal
+    description: Navigate to Item Journals
+  - type: page-shown
+    source:
+      page: Item Journal
+    modal: false
+    runtimeId: b1h3
+    description: Page <caption>Item Journals</caption> was shown.
+  - type: input
+    target:
+      - page: Item Journal
+        runtimeRef: b1h3
+      - repeater: Control1
+      - field: Item No.
+    value: ""
+    isFilterAsYouType: true
+    description: Input <value></value> into <caption>Item No.</caption>
+  - type: page-shown
+    source:
+      page: lookup:Item No.
+    modal: false
+    runtimeId: b1p3
+    description: Page <caption>Select</caption> was shown.
+  - type: invoke
+    target:
+      - page: lookup:Item No.
+        runtimeRef: b1p3
+      - repeater: repeater
+    parameters:
+      AlwaysCommit: true
+    description: Invoke row on <caption>Item</caption>
+  - type: page-closed
+    source:
+      page: lookup:Item No.
+    runtimeId: b1p3
+    description: Page <caption>Select</caption> was closed.
+  - type: input
+    target:
+      - page: Item Journal
+        runtimeRef: b1h3
+      - repeater: Control1
+      - field: Location Code
+    value: ""
+    isFilterAsYouType: true
+    description: Input <value></value> into <caption>Location Code</caption>
+  - type: page-shown
+    source:
+      page: lookup:Location Code
+    modal: false
+    runtimeId: b1ps
+    description: Page <caption>Select</caption> was shown.
+  - type: set-current-row
+    target:
+      - page: lookup:Location Code
+        runtimeRef: b1ps
+      - repeater: repeater
+    targetRecord:
+      relative: 1
+    description: Set current row in <caption>Location</caption>
+  - type: invoke
+    target:
+      - page: lookup:Location Code
+        runtimeRef: b1ps
+      - repeater: repeater
+    parameters:
+      AlwaysCommit: true
+    description: Invoke row on <caption>Location</caption>
+  - type: page-closed
+    source:
+      page: lookup:Location Code
+    runtimeId: b1ps
+    description: Page <caption>Select</caption> was closed.
+  - type: input
+    target:
+      - page: Item Journal
+        runtimeRef: b1h3
+      - repeater: Control1
+      - field: Quantity
+    value: "10"
+    description: Input <value>10</value> into <caption>Quantity</caption>
+  - type: set-current-row
+    target:
+      - page: Item Journal
+        runtimeRef: b1h3
+      - repeater: Control1
+    targetRecord:
+      relative: 1
+    description: Set current row in <caption>Control1</caption>
+  - type: focus
+    target:
+      - page: Item Journal
+        runtimeRef: b1h3
+      - repeater: Control1
+      - field: Description
+    description: Focus <caption>Description</caption>
+  - type: focus
+    target:
+      - page: Item Journal
+        runtimeRef: b1h3
+      - repeater: Control1
+      - field: Description
+    description: Focus <caption>Description</caption>
+  - type: input
+    target:
+      - page: Item Journal
+        runtimeRef: b1h3
+      - repeater: Control1
+      - field: Item No.
+    value: ""
+    isFilterAsYouType: true
+    description: Input <value></value> into <caption>Item No.</caption>
+  - type: focus
+    target:
+      - page: Item Journal
+        runtimeRef: b1h3
+      - repeater: Control1
+      - field: Item No.
+    description: Focus <caption>Item No.</caption>
+  - type: page-shown
+    source:
+      page: lookup:Item No.
+    modal: false
+    runtimeId: b1p3
+    description: Page <caption>Select</caption> was shown.
+  - type: set-current-row
+    target:
+      - page: lookup:Item No.
+        runtimeRef: b1p3
+      - repeater: repeater
+    targetRecord:
+      relative: 1
+    description: Set current row in <caption>Item</caption>
+  - type: invoke
+    target:
+      - page: lookup:Item No.
+        runtimeRef: b1p3
+      - repeater: repeater
+    parameters:
+      AlwaysCommit: true
+    description: Invoke row on <caption>Item</caption>
+  - type: page-closed
+    source:
+      page: lookup:Item No.
+    runtimeId: b1p3
+    description: Page <caption>Select</caption> was closed.
+  - type: focus
+    target:
+      - page: Item Journal
+        runtimeRef: b1h3
+      - repeater: Control1
+      - field: Item No.
+    description: Focus <caption>Item No.</caption>
+  - type: input
+    target:
+      - page: Item Journal
+        runtimeRef: b1h3
+      - repeater: Control1
+      - field: Location Code
+    value: ""
+    isFilterAsYouType: true
+    description: Input <value></value> into <caption>Location Code</caption>
+  - type: focus
+    target:
+      - page: Item Journal
+        runtimeRef: b1h3
+      - repeater: Control1
+      - field: Location Code
+    description: Focus <caption>Location Code</caption>
+  - type: page-shown
+    source:
+      page: lookup:Location Code
+    modal: false
+    runtimeId: b1ps
+    description: Page <caption>Select</caption> was shown.
+  - type: invoke
+    target:
+      - page: lookup:Location Code
+        runtimeRef: b1ps
+      - repeater: repeater
+    parameters:
+      AlwaysCommit: true
+    description: Invoke row on <caption>Location</caption>
+  - type: page-closed
+    source:
+      page: lookup:Location Code
+    runtimeId: b1ps
+    description: Page <caption>Select</caption> was closed.
+  - type: focus
+    target:
+      - page: Item Journal
+        runtimeRef: b1h3
+      - repeater: Control1
+      - field: Location Code
+    description: Focus <caption>Location Code</caption>
+  - type: focus
+    target:
+      - page: Item Journal
+        runtimeRef: b1h3
+      - repeater: Control1
+      - field: Quantity
+    description: Focus <caption>Quantity</caption>
+  - type: input
+    target:
+      - page: Item Journal
+        runtimeRef: b1h3
+      - repeater: Control1
+      - field: Quantity
+    value: "10"
+    description: Input <value>10</value> into <caption>Quantity</caption>
+  - type: focus
+    target:
+      - page: Item Journal
+        runtimeRef: b1h3
+      - field: null
+        automationId: fb8cccf3-54ac-4d77-9ad8-136cec25583a
+        caption: null
+    description: Focus <caption>null</caption>
+  - type: focus
+    target:
+      - page: Item Journal
+        runtimeRef: b1h3
+      - field: null
+        automationId: fb8cccf3-54ac-4d77-9ad8-136cec25583a
+        caption: null
+    description: Focus <caption>null</caption>
+  - type: invoke
+    target:
+      - page: Item Journal
+        runtimeRef: b1h3
+      - action: Post
+    parameters: {}
+    description: Invoke <caption>Post</caption>
+  - type: page-shown
+    source:
+      page: null
+      automationId: 8da61efd-0002-0003-0507-0b0d1113171d
+      caption: Confirm
+    modal: true
+    runtimeId: b1qa
+    description: Page <caption>Confirm</caption> was shown.
+  - type: invoke
+    target:
+      - page: null
+        automationId: 8da61efd-0002-0003-0507-0b0d1113171d
+        caption: Confirm
+        runtimeRef: b1qa
+    invokeType: Yes
+    description: Invoke Yes on <caption>Confirm</caption>
+  - type: page-closed
+    source:
+      page: null
+    runtimeId: b1qa
+    description: Page <caption>Confirm</caption> was closed.
+  - type: message
+    automationId: 8da61efd-0002-0003-0507-0b0d1113171d
+    text: The journal lines were successfully posted.
+    description: "Message: <value>The journal lines were successfully posted.</value>"
+  - type: close-page
+    target:
+      - page: Item Journal
+        runtimeRef: b1h3
+    description: Close page <caption>Item Journals</caption>
+  - type: page-closed
+    source:
+      page: Item Journal
+    runtimeId: b1h3
+    description: Page <caption>Item Journals</caption> was closed.

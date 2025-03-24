@@ -6,5 +6,6 @@
   "testFolders": [
     "BC-Journey.Test"
   ],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "pageScriptingTests": ["PageScripts/Recording.yml", "PageScripts/RecordingFail.yml"]
 }
