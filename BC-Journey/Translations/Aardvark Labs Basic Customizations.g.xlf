@@ -308,6 +308,31 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PermissionSet ARD_Permissions - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Query 1354158331 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Ledger</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query ARD_CustomerLedger - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1354158331 - QueryColumn 1260828904 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query ARD_CustomerLedger - QueryColumn postingDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1354158331 - QueryColumn 594021928 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query ARD_CustomerLedger - QueryColumn SalesAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1354158331 - QueryColumn 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query ARD_CustomerLedger - QueryColumn Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 1354158331 - QueryColumn 949215307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query ARD_CustomerLedger - QueryColumn No - Property Caption</note>
+        </trans-unit>
       </group>
     </body>
   </file>
