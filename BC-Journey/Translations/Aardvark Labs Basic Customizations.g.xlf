@@ -308,6 +308,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PermissionSet ARD_Permissions - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Report 594318795 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Activity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ARD_CustomerActivity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2280134691 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Activity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ARD_VendorActivity - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Query 1354158331 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Customer Ledger</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -332,6 +342,16 @@
           <source>Customer No.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Query ARD_CustomerLedger - QueryColumn No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2778133051 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor API</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query ARD_VendorLedgerAPI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 2778133051 - QueryFilter 4166835688 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query ARD_VendorLedgerAPI - QueryFilter dateFilter - Property Caption</note>
         </trans-unit>
       </group>
     </body>
