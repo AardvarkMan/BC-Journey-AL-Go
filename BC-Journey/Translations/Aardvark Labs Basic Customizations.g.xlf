@@ -308,6 +308,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PermissionSet ARD_Permissions - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 4259159912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Host Control Demo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ARD_HostControlDemo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4259159912 - NamedType 4244666362" size-unit="char" translate="yes" xml:space="preserve">
+          <source>https://aardvarklabs.blog</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ARD_HostControlDemo - NamedType HyperLinkTxt</note>
+        </trans-unit>
         <trans-unit id="Report 594318795 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Customer Activity</source>
           <note from="Developer" annotates="general" priority="2"></note>
