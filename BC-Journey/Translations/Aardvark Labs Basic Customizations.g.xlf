@@ -163,6 +163,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page ARD_WarrantyList - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 4261441945 - Action 2015951108 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Displays the Power BI report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ARDCustomerCard - Action ARDShowPowerBI - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4261441945 - Action 2015951108 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Show Power BI</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ARDCustomerCard - Action ARDShowPowerBI - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 4261441945 - Control 1679726958 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
           <source>Warranty Claims</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -327,6 +337,26 @@
           <source>https://aardvarklabs.blog</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page ARD_HostControlDemo - NamedType HyperLinkTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 2726027009 - Property 1064389655" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Host Control PBI Demo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ARD_HostControlToPBI - Property AboutTitle</note>
+        </trans-unit>
+        <trans-unit id="Page 2726027009 - Property 247559172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a demo page for the Host Control displaying Power BI content.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ARD_HostControlToPBI - Property AboutText</note>
+        </trans-unit>
+        <trans-unit id="Page 2726027009 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Host Control PBI Demo</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ARD_HostControlToPBI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2726027009 - NamedType 4244666362" size-unit="char" translate="yes" xml:space="preserve">
+          <source>https://aardvarklabs.blog/%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ARD_HostControlToPBI - NamedType HyperLinkTxt</note>
         </trans-unit>
         <trans-unit id="Report 594318795 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Customer Activity</source>
