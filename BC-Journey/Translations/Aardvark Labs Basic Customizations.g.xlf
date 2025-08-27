@@ -353,6 +353,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Query ARD_VendorLedgerAPI - QueryFilter dateFilter - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Profile 1732964808 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile ARD_DataEntry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 1732964808 - Property 4111922599" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profile for Data Entry users</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile ARD_DataEntry - Property ProfileDescription</note>
+        </trans-unit>
       </group>
     </body>
   </file>
