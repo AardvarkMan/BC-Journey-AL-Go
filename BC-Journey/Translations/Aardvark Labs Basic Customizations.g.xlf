@@ -168,6 +168,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension ARDCustomerCard - Control ARDWarrantyClaims - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 310633861 - AnalysisView 4206427190 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3434938165">
+          <source>Customer Balance Due Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ARD_Posted Sales Invoices - AnalysisView CustomerBalance - Property Caption</note>
+        </trans-unit>
         <trans-unit id="TableExtension 3209861788 - Field 2059382471 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
           <source>Warranty Expiration Date</source>
           <note from="Developer" annotates="general" priority="2"></note>
