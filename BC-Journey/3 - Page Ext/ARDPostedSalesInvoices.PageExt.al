@@ -10,7 +10,9 @@ pageextension 50005 "ARD_Posted Sales Invoices" extends "Posted Sales Invoices"
             analysisview(CustomerBalance)
             {
                 DefinitionFile = './Analysis/Customer balance due date.analysis.json';
-                Caption = 'Customer Balance Due Date';
+                Caption = 'Customer Balance Due by Date';
+                ToolTip = 'View customer balances by due date.';
+                Visible = true;
             }
         }
     }
