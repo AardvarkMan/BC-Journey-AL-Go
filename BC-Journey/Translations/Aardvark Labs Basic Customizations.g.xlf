@@ -168,6 +168,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension ARDCustomerCard - Control ARDWarrantyClaims - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 1375004417 - Action 2851454604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Export to Excel by Ref</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ARD_Item List - Action ExportToExcel - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 310633861 - AnalysisView 4206427190 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3434938165">
           <source>View customer balances by due date.</source>
           <note from="Developer" annotates="general" priority="2"></note>
